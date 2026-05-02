@@ -1,0 +1,7 @@
+title: Slopsmith Demo
+emoji: "\U0001F3B8"
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
