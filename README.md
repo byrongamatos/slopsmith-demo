@@ -1,3 +1,13 @@
+---
+title: Slopsmith Demo
+emoji: 🎸
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Slopsmith Demo
 
 Public demo of [Slopsmith](https://github.com/byrongamatos/slopsmith) — a web app for browsing, playing, and editing Rocksmith 2014 CDLC.
