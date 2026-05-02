@@ -11,3 +11,7 @@
   padding: 4px 8px;
   pointer-events: none;
 }
+
+body {
+  padding-top: 24px;
+}
